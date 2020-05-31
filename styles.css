@@ -1,0 +1,31 @@
+/* add your CSS here */
+img{
+    width: 300px;
+    padding: 5px;
+}
+#card{
+    width: 310px;
+    border: 1px solid black;
+}
+li{
+    font-style:italic;
+}
+span{
+    font-weight: bold;
+    font-style: normal;
+}
+ul{
+    list-style-type: none;
+}
+#content, h3{
+    padding: 5px;
+}
+h3{
+    text-align: center;
+    border: solid 4px black;
+    margin: 5px;
+}
+#content{
+    border: solid 2px red;
+    margin: 5px;
+}
